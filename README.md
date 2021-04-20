@@ -1,4 +1,4 @@
-I code things.
+I do schoolwork things, model 3d things in Blender, and code things in Unity and Scratch.
 https://scratch.mit.edu/users/dabigmoosebro/
 
 <!---
