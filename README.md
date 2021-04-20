@@ -1,4 +1,5 @@
-- I code things.
+I code things.
+https://scratch.mit.edu/users/dabigmoosebro/
 
 <!---
 fusionmoose/fusionmoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
